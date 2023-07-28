@@ -18,6 +18,7 @@
 - [Analysing Shellcode to understand how they call windows API's](https://irfan-eternal.github.io/analysing-shellcode-to-understand-how-they-call-windows-apis/)
 - [Improving My Ghidra GUI + Ghidra Skills](https://irfan-eternal.github.io/improving-my-ghidra-gui--ghidra-skills/)
 - [Unmapping PE files, fixing Alignment and Fixing corrupted/Missing PE Header](https://irfan-eternal.github.io/unmapping-pe-files-fixing-alignment-and-fixing-corrupted-or-missing-pe-header/)
+- [Guloader Deobfuscation using Ghidra](https://irfan-eternal.github.io/guloader-deobfuscation-using-ghidra/)
 
 ## :toolbox: Languages and tools I use:
 
