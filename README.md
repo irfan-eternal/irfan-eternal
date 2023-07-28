@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Improving Ghidra 
 - 🌱 I’m currently learning Malware Analysis and RE
 - 👯 I’m looking to collaborate on anything realted to Ghidra
-- 🤔 I’m looking for help with how to  [Apply Function Signatures to renamed Labels which match windows API call's](https://www.reddit.com/r/ghidra/comments/12fulq6/apply_function_signatures_to_renamed_labels_which/) in Ghidra
 - 💬 Ask me about Malware, Ghidra, and RE
 
 ## 📫 How to reach me: 
