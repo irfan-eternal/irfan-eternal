@@ -28,6 +28,11 @@
 <img align="left" alt="dnSpy" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png/revision/latest?cb=20230313030417" />
 
 <br>
+<br/>
+
+<br>
+<br/>
+<p>
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://irfan-eternal.github.io/">
@@ -41,6 +46,7 @@
 <a href="https://irfan-eternal.github.io/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasherezade&theme=dark" />
 </a>
-<br/>
+</p>
+
 
 
