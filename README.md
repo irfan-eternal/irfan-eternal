@@ -1,6 +1,4 @@
-### Hi there i am irfan 👋
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=irfan-eternal&label=Profile%20views&color=red&style=flat-square" alt="irfan-eternal" /> </p>
+### Hi there i am irfan 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=irfan-eternal&label=Profile%20views&color=red&style=flat-square" alt="irfan-eternal" /> </p>
 
 - 🔭 I’m currently working on Improving Ghidra 
 - 🌱 I’m currently learning Malware Analysis and RE
