@@ -1,5 +1,4 @@
-### Hi there i am irfan 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=irfan-eternal&label=Profile%20views&color=red&style=flat-square" alt="irfan-eternal" /> </p>
-
+### Hi there i am irfan 👋 
 - 🔭 I’m currently working on Improving Ghidra 
 - 🌱 I’m currently learning Malware Analysis and RE
 - 👯 I’m looking to collaborate on anything realted to Ghidra
@@ -29,9 +28,12 @@
 <img align="left" alt="dnSpy" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png/revision/latest?cb=20230313030417" />
 
 <br>
+<br>
+<p>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=irfan-eternal&color=red&style=for-the-badge">
 </a>
+</p>
 
 
 
