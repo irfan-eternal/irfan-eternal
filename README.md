@@ -28,12 +28,7 @@
 <img align="left" alt="dnSpy" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png/revision/latest?cb=20230313030417" />
 
 <br>
-<br>
-<p>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=irfan-eternal&color=red&style=for-the-badge">
-</a>
-</p>
+
 
 
 
