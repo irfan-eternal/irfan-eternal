@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://irfan-eternal.github.io/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasherezade&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-eternal&theme=dark" />
 </a>
 </p>
 
