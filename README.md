@@ -30,26 +30,7 @@
 <br>
 <br/>
 
-<br>
-<br/>
-<p>
-#### &#x1f4c8; My GitHub Stats
 
-<br>
-<br/>
-
-<a href="https://irfan-eternal.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan-eternal&show_icons=true&line_height=33&count_private=true&theme=dark" alt="My GitHub Stats" />
-</a>
-
-<a href="https://irfan-eternal.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-eternal&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-</a>
-
-<a href="https://irfan-eternal.github.io/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-eternal&theme=dark" />
-</a>
-</p>
 
 
 
