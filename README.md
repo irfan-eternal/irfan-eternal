@@ -28,7 +28,19 @@
 <img align="left" alt="dnSpy" width="30px" src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png/revision/latest?cb=20230313030417" />
 
 <br>
+#### &#x1f4c8; My GitHub Stats
 
+<a href="https://irfan-eternal.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan-eternal&show_icons=true&line_height=33&count_private=true&theme=dark" alt="My GitHub Stats" />
+</a>
 
+<a href="https://irfan-eternal.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-eternal&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://irfan-eternal.github.io/">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasherezade&theme=dark" />
+</a>
+<br/>
 
 
